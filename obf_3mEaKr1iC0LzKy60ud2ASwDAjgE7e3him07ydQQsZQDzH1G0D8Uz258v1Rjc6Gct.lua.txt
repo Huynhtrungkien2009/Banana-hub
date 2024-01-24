@@ -1,0 +1,3 @@
+_G.Name = "banana hub [ fake ]
+
+" -- Put You Name Script Hereloadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")()
